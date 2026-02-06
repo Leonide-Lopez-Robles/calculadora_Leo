@@ -147,10 +147,9 @@ double buttonSize = isLandscape ? 60.0 : 75.0;
 ## 📱 Capturas de Pantalla
 
 ### Modo Vertical
-### Modo Horizontal
 <p align="center">
 
-  <img src="modo_vertical.jpeg" width="450"/>
+  <img src="modo_vertical.jpeg" width="250"/>
 </p>
 
 
