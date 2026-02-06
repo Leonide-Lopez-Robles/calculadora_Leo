@@ -149,13 +149,14 @@ double buttonSize = isLandscape ? 60.0 : 75.0;
 ### Modo Vertical
 ### Modo Horizontal
 <p align="center">
-  <img src="images/modo_vertical.jpeg" width="450"/>
+
+  <img src="modo_vertical.jpeg" width="450"/>
 </p>
 
 
 ### Modo Horizontal
 <p align="center">
-  <img src="images/modo_horizontal.jpeg" width="450"/>
+  <img src="modo_horizontal.jpeg" width="450"/>
 </p>
 
 
